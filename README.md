@@ -45,4 +45,4 @@ The goal is to build a complete suite of manufacturing utilities.
 - [ ] Cutter Comp Visualizer: Graphical guide for G41/G42 selection (Climb vs. Conventional).
 
 # 📄 License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
