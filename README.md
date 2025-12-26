@@ -43,3 +43,6 @@ The goal is to build a complete suite of manufacturing utilities.
 - [ ] Feeds & Speeds Engine: Connect to external Material Catalog (Google Sheets/Database) for live cutting data.
 
 - [ ] Cutter Comp Visualizer: Graphical guide for G41/G42 selection (Climb vs. Conventional).
+
+# 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
